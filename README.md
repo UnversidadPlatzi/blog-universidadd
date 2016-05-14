@@ -1,2 +1,16 @@
-# blog-universidadd
-Es un proyecto dedicado al crecimiento de comunidad universitaria a través de un blog de eventos.
+Blog Universidad
+
+[Descripcion]
+
+[Instalacion]
+- Requisitos
+- Version
+- Encargados del Proyecto
+
+[Uso]
+
+[Documentacion]
+
+[RoadMap]
+
+[Licencias]
